@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlasticWarfareDedicatedServer", "PlasticWarfareDedicatedServer\PlasticWarfareDedicatedServer.csproj", "{BCDF3C3D-0BDB-4846-B911-F29DF2AF256F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDF3C3D-0BDB-4846-B911-F29DF2AF256F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDF3C3D-0BDB-4846-B911-F29DF2AF256F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDF3C3D-0BDB-4846-B911-F29DF2AF256F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDF3C3D-0BDB-4846-B911-F29DF2AF256F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A52056E9-C708-4805-96EF-7BD061B6C61F}
+	EndGlobalSection
+EndGlobal
