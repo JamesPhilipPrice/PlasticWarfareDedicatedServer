@@ -19,5 +19,12 @@ namespace PlasticWarfareDedicatedServer
             }
 
         }
+
+        public static void UDPTestReceived(int _fromClient, Packet _packet)
+        {
+            string _msg = _packet.ReadString();
+
+            Console.WriteLine($"Received packlet via UDP. Contains message: {_msg}");
+        }
     }
 }
